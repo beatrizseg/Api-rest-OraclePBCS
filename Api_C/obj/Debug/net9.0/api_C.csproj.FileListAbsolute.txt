@@ -1,0 +1,14 @@
+C:\Users\Lituus Analytics\Documents\Api-rest\api_C\bin\Debug\net9.0\api_C.exe
+C:\Users\Lituus Analytics\Documents\Api-rest\api_C\bin\Debug\net9.0\api_C.deps.json
+C:\Users\Lituus Analytics\Documents\Api-rest\api_C\bin\Debug\net9.0\api_C.runtimeconfig.json
+C:\Users\Lituus Analytics\Documents\Api-rest\api_C\bin\Debug\net9.0\api_C.dll
+C:\Users\Lituus Analytics\Documents\Api-rest\api_C\bin\Debug\net9.0\api_C.pdb
+C:\Users\Lituus Analytics\Documents\Api-rest\api_C\obj\Debug\net9.0\api_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lituus Analytics\Documents\Api-rest\api_C\obj\Debug\net9.0\api_C.AssemblyInfoInputs.cache
+C:\Users\Lituus Analytics\Documents\Api-rest\api_C\obj\Debug\net9.0\api_C.AssemblyInfo.cs
+C:\Users\Lituus Analytics\Documents\Api-rest\api_C\obj\Debug\net9.0\api_C.csproj.CoreCompileInputs.cache
+C:\Users\Lituus Analytics\Documents\Api-rest\api_C\obj\Debug\net9.0\api_C.dll
+C:\Users\Lituus Analytics\Documents\Api-rest\api_C\obj\Debug\net9.0\refint\api_C.dll
+C:\Users\Lituus Analytics\Documents\Api-rest\api_C\obj\Debug\net9.0\api_C.pdb
+C:\Users\Lituus Analytics\Documents\Api-rest\api_C\obj\Debug\net9.0\api_C.genruntimeconfig.cache
+C:\Users\Lituus Analytics\Documents\Api-rest\api_C\obj\Debug\net9.0\ref\api_C.dll
